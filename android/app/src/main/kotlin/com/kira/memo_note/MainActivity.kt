@@ -1,4 +1,4 @@
-package com.kira.memo
+package com.kira.memo_note
 
 import io.flutter.embedding.android.FlutterActivity
 
